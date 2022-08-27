@@ -1,0 +1,3 @@
+I have taken a Dataset from Google and applied logistic Regression on the set in ordet to get a a total number of yes and no by using confussion matrix
+Basically Confussion matrix tells u the total number of (predicted yes,actual yes) and (predicted no,actual no)
+At the end we have divided the left diagonal with the sum of both left and right diagonal in order to get the accuracy. 
