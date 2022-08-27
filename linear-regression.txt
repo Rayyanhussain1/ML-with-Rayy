@@ -1,0 +1,2 @@
+I have taken a Dataset from Google and applied linear Regression on the set in ordet to get a Residual(measure of good fit) by applying lr on two models to see which model will be going to give me minimum value of residual.
+Basically residual is the Mean-Squared_value between predicted values and actual values.
